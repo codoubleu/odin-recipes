@@ -1,8 +1,13 @@
 # odin-recipes
 Project: Recipes
-Foundations Course
 
 First project for [The Odin Project](https://www.theodinproject.com).
-This is a basic recipe website consisting of a main index page and links to a few recipes.
+This is a basic recipe website consisting of a main index page and links to a
+few recipes.
 
-Self-reflection will be done here after project completion.
+On this project I was able to practice creating basic HTML pages, including the
+following things:
+- `<a>` for links
+- `<img>` for images
+- `<ol>` and `<ul>` for ordered and unordered lists
+- `<hN>` tags for headers
